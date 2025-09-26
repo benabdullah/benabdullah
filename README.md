@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Laravel, react & react-native, database modelling,system design, software architecture**
 
-- 📫 How to reach me **abdllhcaba@gmail.com**
+- 📫 How to reach me **devcaba@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/benabdullah/](https://www.linkedin.com/in/benabdullah/)
 
