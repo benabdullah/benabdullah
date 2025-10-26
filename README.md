@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="benabdullah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benabdullah" alt="benabdullah" /></a> </p>
-
 - 🔭 I’m currently seeking new opportunities.
 
 - 🌱 I’m currently learning **Go, Typescript, Embedded systems**
