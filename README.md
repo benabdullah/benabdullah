@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benabdullah" alt="benabdullah" /></a> </p>
 
-- 🔭 I’m currently working at [Vairosoft](https://vairosoft.com)
+- 🔭 I’m currently seeking new opportunities.
 
 - 🌱 I’m currently learning **Go, Typescript, Embedded systems**
 
